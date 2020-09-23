@@ -1,1 +1,4 @@
 Added second.txt file in repo
+
+
+For using pull command we made changes in second.txt
